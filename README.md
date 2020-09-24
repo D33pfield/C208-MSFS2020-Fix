@@ -22,7 +22,11 @@ While I do understand a little about coding, fixing the problems I described abo
 
 ## ***DOWNLOAD***
 
-**To download the latest stable version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.2/C208B-mod.v0.4.2.zip) or click on the latest release in the "Releases" tab at the right side of the page.**
+**To download the latest stable version of the C208 mod you can click [here](https://github.com/Dros0phila/C208-MSFS2020-Fix/releases/download/v0.4.3/C208B-mod-v0.4.3.zip) or click on the latest release in the "Releases" tab at the right side of the page.**
+
+***Changelog v0.4.3***
+
+- Added [Uwajimaya's light mod](https://uwajimaya.github.io/FS2020/). Thanks to Uwajimaya and D33pfield for the help.
 
 ***Changelog v0.4.2:***
 
@@ -109,9 +113,6 @@ Some other things to keep in mind:
 
 - With this mod, I was able to make a flight following the power settings available in the POH and had a performance close to what it should be. I was able to keep the torque within the limits of the POH while maintaining the desired cruise airspeed. The ITT is still lower than it should be (it doens't limit your torque, you actually can go all the way up to around 2000 lbs/ft of torque and keep the ITT in the green, which shouldn't happen according to the POH).
 
-To view the change log and the features in the latest version please check "releases" on the github repository:
-
-https://github.com/Dros0phila/C208-MSFS2020-Fix
 
 There are probably a lot of other problems with this aircraft, but these are the ones I found more relevant as of now. Again, I am no expert in this kind of plane and I might be wrong in some of these findings. I'm also not a programmer and therefore my skills with software are VERY limited. So I'm open to any feedback from actual Caravan pilots, people who know how to code and of course, flight simmers who could enjoy a more realistic Caravan!
 
@@ -131,4 +132,4 @@ For the Steam version I'm not sure but it should be something like:
 
 Done! If you have any problems or if you just didn't like the way the plane behaves with this mod you can simply delete this file from the "Community" folder.
 
-This modification is open source and available to everyone for downloading, using and even modifying the files. However, if you wish to buy me a cup of coffee, feel free to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DRFGS8WLVY9MG&currency_code=BRL&source=url).
+This modification is open source and available to everyone for downloading, using and even modifying the files.
